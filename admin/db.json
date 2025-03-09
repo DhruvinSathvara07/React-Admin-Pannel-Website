@@ -1,0 +1,311 @@
+{
+  "HomeHeroSection": [
+    {
+      "id": "e926",
+      "title": "dhruvin",
+      "description": "Transforming healthcare by redistributing surplus medications to improve lives and access to care."
+    },
+    {
+      "id": "65ee",
+      "title": "jkds",
+      "description": "sdjk"
+    }
+  ],
+  "NGO_Hero_Section": [
+    {
+      "title": "Be the Bridge Between Hope and Healing",
+      "description": "Join a network of change-makers repurposing medicines to bring health and hope to underserved communities.",
+      "id": "2d71"
+    }
+  ],
+  "cardData": [
+    {
+      "id": "4674",
+      "card_title": "Our Vision",
+      "description": "We aim to bridge the gap between surplus medicines and underserved communities, empowering NGOs to make a tangible impact on healthcare access."
+    },
+    {
+      "id": "1c77",
+      "card_title": "Our Mission",
+      "description": "We aim to bridge the gap between surplus medicines and underserved communities, empowering NGOs to make a tangible impact on healthcare access."
+    }
+  ],
+  "flipCardData": [
+    {
+      "id": "1321",
+      "icon_className": "fa-medkit",
+      "card_title": "Donate Medicine",
+      "flip_content_description": "Contribute unused medicines to help those who need them the most."
+    },
+    {
+      "id": "7609",
+      "icon_className": "fa-hand-holding-heart",
+      "card_title": "Support NGOs",
+      "flip_content_description": "Partner with NGOs to distribute medicine to those in need effectively."
+    },
+    {
+      "id": "a383",
+      "icon_className": "fa-users",
+      "card_title": "Join the Cause",
+      "flip_content_description": "Be a part of our mission to ensure no medicine goes unused."
+    },
+    {
+      "id": "b23a",
+      "icon_className": "fa-hand-holding-heart",
+      "card_title": "heart ",
+      "flip_content_description": "Contribute unused medicines to help those who need them the most."
+    }
+  ],
+  "Swiping-images": [
+    {
+      "id": "5d87",
+      "title": "Medicine Redistribution",
+      "description": "Donate unused medicines for better health and less waste.",
+      "process": "25",
+      "donations": "100 Donations",
+      "needed": "400 Needed",
+      "buttonText": "Contribute Now",
+      "image": "images/NGO/ngo_section_1.jpg",
+      "progress": "25"
+    },
+    {
+      "id": "2",
+      "title": "Empowering NGOs",
+      "description": "Join us to deliver unused medicines to those in need. Together, we save lives and reduce waste.",
+      "image": "images/NGO/story_2.jpg",
+      "progress": 68,
+      "donations": "60 NGOs",
+      "needed": "100 Target",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": "3",
+      "title": "Community Outreach",
+      "description": "Spread awareness about medicine donation to create a collective impact.",
+      "image": "images/img_v_5-min1.jpg",
+      "progress": 87,
+      "donations": "870 NGOs",
+      "needed": "1000 Goal",
+      "buttonText": "Learn More"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "blog_date": "November 11, 2024",
+      "blog_img": "images/img_v_1-min1.jpg",
+      "blog_title": "Helping Communities with Medicines",
+      "blog_description": "Discover how unused medicines are saving lives and supporting those who need them the most."
+    },
+    {
+      "id": "2",
+      "blog_date": "December 1, 2024",
+      "blog_img": "images/img_v_2-min1.jpg",
+      "blog_title": "Helping Communities with Medicines",
+      "blog_description": "Discover how unused medicines are saving lives and supporting those who need them the most."
+    },
+    {
+      "id": "3",
+      "blog_date": "November 11, 2024",
+      "blog_img": "images/img_v_3-min1.jpg",
+      "blog_title": "Helping Communities with Medicines",
+      "blog_description": "Discover how unused medicines are saving lives and supporting those who need them the most."
+    }
+  ],
+  "About": [
+    {
+      "id": "88df",
+      "aboutheading": "About Us",
+      "aboutpara": "We are dedicated to making healthcare more accessible by facilitating the donation of unused medicines to those in need. Through education and community engagement, we help reduce waste while improving lives across India.",
+      "aboutimg": "public/images/history1.jpg",
+      "subheading": "About",
+      "missionheading": "Our Mission",
+      "ourmissionpara": "MedicAid was founded with a vision to bridge the gap in healthcare by making unused medicines accessible to those in need. Through our platform, we encourage local donations and ensure that safe, unexpired medicines are redistributed to poor communities in India. We are dedicated to reducing healthcare waste while improving lives. By collaborating with NGOs, we ensure that no medicine goes to waste, helping build a healthier and more sustainable future for all."
+    }
+  ],
+  "Contact": [
+    {
+      "id": "696b",
+      "contactheading": "Contact Us",
+      "contactpara": "We are dedicated to making healthcare more accessible by facilitating the donation of unused medicines to those in need. Through education and community engagement, we help reduce waste while improving lives across India."
+    }
+  ],
+  "Blogpage": [
+    {
+      "id": "913f",
+      "Cardimg": "img/img_v_1-min1.jpg",
+      "CardDate": "2025-02-26",
+      "CardHeading": "Empowering NGOs for a Better Tomorrow",
+      "Cardpargraph": "Learn how NGOs are creating impact by distributing donated medicines and uplifting lives."
+    },
+    {
+      "id": "4fa7",
+      "Cardimg": "public/img/insta_5.jpg",
+      "CardDate": "2025-02-26",
+      "CardHeading": "Empowering NGOs for a Better Tomorrow",
+      "Cardpargraph": "Learn how NGOs are creating impact by distributing donated medicines and uplifting lives."
+    },
+    {
+      "id": "bbf0",
+      "Cardimg": "public/img/insta_3.jpg",
+      "CardDate": "February 4, 2025",
+      "CardHeading": "Transforming Lives Through Medicine Donations",
+      "Cardpargraph": "Discover how unused medicines are being repurposed to bring hope and healing to those in need. Join us in making a difference!"
+    },
+    {
+      "id": "28d9",
+      "Cardimg": "public/img/insta_1.jpg",
+      "CardDate": "November 11, 2024",
+      "CardHeading": "Helping Communities with Medicines",
+      "Cardpargraph": "Discover how unused medicines are saving lives and supporting those who need them the most"
+    },
+    {
+      "id": "2fc6",
+      "Cardimg": "public/img/insta_4.jpg",
+      "CardDate": "February 24, 2025",
+      "CardHeading": "Bringing Healthcare Awareness to Communities",
+      "Cardpargraph": "Unused medicine donations help bridge healthcare gaps, transforming lives and building a healthier future."
+    },
+    {
+      "id": "991c",
+      "Cardimg": "public/img/insta_5.jpg",
+      "CardDate": "January 28, 2025",
+      "CardHeading": "Empowering Communities Through Medicine Donations",
+      "Cardpargraph": "Discover how donating unused medicines supports livelihoods by reducing healthcare costs and promoting community well-being."
+    }
+  ],
+  "PartnerCard": [
+    {
+      "id": "1",
+      "image": "images/NGO/ngo_section_1.jpg",
+      "title": "Expand Your Reach",
+      "description": "Gain access to surplus medicines to extend your NGO's reach and make a significant impact in underserved areas.",
+      "Image": "images/NGO/ngo_section_1.jpg"
+    },
+    {
+      "id": "2",
+      "image": "images/NGO/ngo_section_2.jpg",
+      "title": "Build Strategic Partnerships",
+      "description": "Collaborate with donors and other NGOs to amplify the reach and efficiency of your healthcare initiatives."
+    },
+    {
+      "id": "3",
+      "image": "images/NGO/ngo_section_3.jpg",
+      "title": "Drive Sustainable Change",
+      "description": "Play a pivotal role in reducing waste and ensuring essential medicines are delivered to those who need them most."
+    }
+  ],
+  "PartnerCard2": [
+    {
+      "images": "images/NGO/prayas_logo.jpg",
+      "name": "Prayas Health Group",
+      "description": "Providing medical support and health camps to underserved communities in Ahmedabad.",
+      "id": "894f"
+    },
+    {
+      "images": "images/NGO/sankalp_logo.jpg",
+      "name": "Sankalp Charitable Trust",
+      "description": "Focused on healthcare, education, and rural development, bringing medical aid to marginalized communities.",
+      "id": "2c57"
+    },
+    {
+      "images": "images/NGO/arogya_logo.png",
+      "name": "Shri Jalaram Arogya Seva Trust",
+      "description": "Providing healthcare services, including medical camps, for underprivileged communities in Ahmedabad.",
+      "id": "4134"
+    }
+  ],
+  "posts": [
+    {
+      "id": "4fa7",
+      "Cardimg": "images/Instagram section/insta_5.jpg",
+      "CardDate": "December 1, 2024",
+      "CardHeading": "Empowering NGOs for a Better Tomorrow",
+      "Cardpargraph": "Learn how NGOs are creating impact by distributing donated medicines and uplifting lives."
+    },
+    {
+      "id": "bbf0",
+      "Cardimg": "images/Instagram section/insta_3.jpg",
+      "CardDate": "February 4, 2025",
+      "CardHeading": "Transforming Lives Through Medicine Donations",
+      "Cardpargraph": "Discover how unused medicines are being repurposed to bring hope and healing to those in need. Join us in making a difference!"
+    },
+    {
+      "id": "28d9",
+      "Cardimg": "images/Instagram section/insta_1.jpg",
+      "CardDate": "November 11, 2024",
+      "CardHeading": "Helping Communities with Medicines",
+      "Cardpargraph": "Discover how unused medicines are saving lives and supporting those who need them the most"
+    },
+    {
+      "id": "2fc6",
+      "Cardimg": "images/Instagram section/insta_4.jpg",
+      "CardDate": "February 24, 2025",
+      "CardHeading": "Bringing Healthcare Awareness to Communities",
+      "Cardpargraph": "Unused medicine donations help bridge healthcare gaps, transforming lives and building a healthier future."
+    },
+    {
+      "id": "991c",
+      "Cardimg": "images/Instagram section/insta_5.jpg",
+      "CardDate": "January 28, 2025",
+      "CardHeading": "Empowering Communities Through Medicine Donations",
+      "Cardpargraph": "Discover how donating unused medicines supports livelihoods by reducing healthcare costs and promoting community well-being."
+    }
+  ],
+  "photos": [
+    {
+      "id": "1",
+      "src": "images/Instagram section/insta_1.jpg",
+      "alt": "Buy iPhone XS"
+    },
+    {
+      "id": "2",
+      "src": "images/Instagram section/insta_2.jpg",
+      "alt": "Buy iPhone XR"
+    },
+    {
+      "id": "3",
+      "src": "images/Instagram section/insta_3.jpg",
+      "alt": "Buy iPhone X"
+    },
+    {
+      "id": "4",
+      "src": "images/Instagram section/insta_4.jpg",
+      "alt": "Buy iPhone 8"
+    },
+    {
+      "id": "5",
+      "src": "images/Instagram section/insta_5.jpg",
+      "alt": "Buy Samsung Galaxy S10"
+    },
+    {
+      "id": "6",
+      "src": "images/Instagram section/insta_6.jpg",
+      "alt": "Buy Samsung Galaxy S9"
+    },
+    {
+      "id": "7",
+      "src": "images/Instagram section/insta_7.jpg",
+      "alt": "Buy Samsung Galaxy Note 9"
+    },
+    {
+      "id": "8",
+      "src": "images/Instagram section/insta_8.jpg",
+      "alt": "Buy Samsung Galaxy Note 8"
+    }
+  ],
+  "heading": [
+    {
+      "id": "4b21",
+      "herotitle": "Stop Medication Waste. Support the Poor People",
+      "heropara": "Every year, countless people, including needy people, struggle to afford life-saving medicines, while unused and unopened medications go to waste. Together, we can change that. Help us repurpose these medicines to bring hope and health to those in need."
+    }
+  ],
+  "BlogTitle": [
+    {
+      "id": "aeb3",
+      "BlogTitle": "Our Blogs",
+      "Blogdescription": "Explore stories of impact, learn how unused medicine donations change lives,\\nand stay updated with the latest insights on community health initiatives."
+    }
+  ]
+}
