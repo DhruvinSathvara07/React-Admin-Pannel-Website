@@ -1,11 +1,6 @@
 {
   "HomeHeroSection": [
     {
-      "id": "e926",
-      "title": "dhruvin",
-      "description": "Transforming healthcare by redistributing surplus medications to improve lives and access to care."
-    },
-    {
       "id": "65ee",
       "title": "jkds",
       "description": "sdjk"
@@ -114,13 +109,9 @@
   ],
   "About": [
     {
-      "id": "88df",
-      "aboutheading": "About Us",
-      "aboutpara": "We are dedicated to making healthcare more accessible by facilitating the donation of unused medicines to those in need. Through education and community engagement, we help reduce waste while improving lives across India.",
-      "aboutimg": "public/images/history1.jpg",
-      "subheading": "About",
-      "missionheading": "Our Mission",
-      "ourmissionpara": "MedicAid was founded with a vision to bridge the gap in healthcare by making unused medicines accessible to those in need. Through our platform, we encourage local donations and ensure that safe, unexpired medicines are redistributed to poor communities in India. We are dedicated to reducing healthcare waste while improving lives. By collaborating with NGOs, we ensure that no medicine goes to waste, helping build a healthier and more sustainable future for all."
+      "id": "8d02",
+      "aboutheading": "Hi",
+      "aboutpara": "ksdkdk"
     }
   ],
   "Contact": [

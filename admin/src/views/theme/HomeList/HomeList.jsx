@@ -14,12 +14,12 @@ const HomeList = () => {
   }
 
   const handleDelete = async (id) => {
-   if (confirm("are you sure ?")) {
-    await axios.delete(`http://localhost:3001/HomeHeroSection/${id}`).then((response) => {
-      console.log(response, 'Response of id')
-      showServicesData()
-    })
-   }
+    if (confirm("are you sure ?")) {
+      await axios.delete(`http://localhost:3001/HomeHeroSection/${id}`).then((response) => {
+        console.log(response, 'Response of id')
+        showServicesData()
+      })
+    }
   }
 
   useEffect(() => {
@@ -29,7 +29,7 @@ const HomeList = () => {
   return (
     <>
       <div className="container-fluid my-5">
-        <h1 className="mb-5">Home Title List</h1>
+        <h1 className="mb-5"></h1>
 
         <table className="table table-bordered table-stripped ">
           <thead className="table-dark">
