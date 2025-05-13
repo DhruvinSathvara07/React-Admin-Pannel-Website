@@ -53,7 +53,7 @@ const Section2 = () => {
                                         +91 900 1234 567
                                     </p>
                                 </div>
-
+                                {/* 
                                 <div className="col-6 col-lg-6 mb-4">
                                     <h3 className="h6 fw-bold text-secondary">Follow</h3>
                                     <ul className="list-unstyled d-flex gap-2 social-custom">
@@ -65,7 +65,7 @@ const Section2 = () => {
                                         <li><a href="https://dribbble.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-dribbble"></i></a></li>
                                     </ul>
 
-                                </div>
+                                </div> */}
                                 <div className="col-6 col-lg-6 mb-4">
                                     <h3 className="h6 fw-bold text-secondary">Email</h3>
                                     <p>

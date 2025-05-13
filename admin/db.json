@@ -1,9 +1,9 @@
 {
   "HomeHeroSection": [
     {
-      "id": "65ee",
-      "title": "DHruvin",
-      "description": "This NGO helps a poor peoples"
+      "id": "8893",
+      "title": "Dhruvin Sathvara",
+      "description": "Hi our NGO helps poor people "
     }
   ],
   "NGO_Hero_Section": [
@@ -20,9 +20,14 @@
       "description": "We aim to bridge the gap between surplus medicines and underserved communities, empowering NGOs to make a tangible impact on healthcare access."
     },
     {
-      "id": "1c77",
+      "id": "a417",
       "card_title": "Our Mission",
-      "description": "We aim to bridge the gap between surplus medicines and underserved communities, empowering NGOs to make a tangible impact on healthcare access."
+      "description": "We aim to bridge the gap between surplus medicines and underserved communities, empowering NGOs to make a tangible impact on healthcare access.\n\n"
+    },
+    {
+      "id": "07f4",
+      "card_title": "Our Mission",
+      "description": "Hi "
     }
   ],
   "flipCardData": [
@@ -82,6 +87,16 @@
       "donations": "870 NGOs",
       "needed": "1000 Goal",
       "buttonText": "Learn More"
+    },
+    {
+      "id": "1b91",
+      "image": "images/NGO/ngo_section_1.jpg",
+      "title": "Hi",
+      "description": "sfnkdkfdk",
+      "progress": "1",
+      "donations": "1000",
+      "needed": "msmksd",
+      "buttonText": "red"
     }
   ],
   "blogs": [
@@ -107,18 +122,12 @@
       "blog_description": "Discover how unused medicines are saving lives and supporting those who need them the most."
     }
   ],
-  "About": [
-    {
-      "id": "8d02",
-      "aboutheading": "Hi",
-      "aboutpara": "ksdkdk"
-    }
-  ],
+  "About": [],
   "Contact": [
     {
-      "id": "696b",
-      "contactheading": "Contact Us",
-      "contactpara": "We are dedicated to making healthcare more accessible by facilitating the donation of unused medicines to those in need. Through education and community engagement, we help reduce waste while improving lives across India."
+      "id": "316c",
+      "contactheading": "Dhruvin",
+      "contactpara": "Hi i am dhruvin"
     }
   ],
   "Blogpage": [

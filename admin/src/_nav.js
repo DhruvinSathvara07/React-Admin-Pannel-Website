@@ -176,51 +176,51 @@ const _nav = [
     name: 'Blog Card List',
     to: '/theme/BlogList/BlogCardList',
     icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavTitle,
-    name: 'about'
-  },
-  {
-    component: CNavItem,
-    name: 'About Title',
-    to: '/theme/About/About',
-    icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavItem,
-    name: 'About Title List',
-    to: '/theme/AboutList/AboutList',
-    icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavItem,
-    name: 'About Mission',
-    to: '/theme/About/Mission',
-    icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavItem,
-    name: 'About Mission List',
-    to: '/theme/AboutList/MissionList',
-    icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavTitle,
-    name: 'Contact'
-  },
-  {
-    component: CNavItem,
-    name: 'Contact Title',
-    to: '/theme/Contact/Contact',
-    icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
-  },
-  {
-    component: CNavItem,
-    name: 'Contact Title List',
-    to: '/theme/ContactList/ContactList',
-    icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
-  },
+  }
+  // {
+  //   component: CNavTitle,
+  //   name: 'about'
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'About Title',
+  //   to: '/theme/About/About',
+  //   icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'About Title List',
+  //   to: '/theme/AboutList/AboutList',
+  //   icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'About Mission',
+  //   to: '/theme/About/Mission',
+  //   icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'About Mission List',
+  //   to: '/theme/AboutList/MissionList',
+  //   icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
+  // },
+  // {
+  //   component: CNavTitle,
+  //   name: 'Contact'
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'Contact Title',
+  //   to: '/theme/Contact/Contact',
+  //   icon: <CIcon icon={cilBook} customClassName="nav-icon" />,
+  // },
+  // {
+  //   component: CNavItem,
+  //   name: 'Contact Title List',
+  //   to: '/theme/ContactList/ContactList',
+  //   icon: <CIcon icon={cilLan} customClassName="nav-icon" />,
+  // },
 ]
 
 export default _nav

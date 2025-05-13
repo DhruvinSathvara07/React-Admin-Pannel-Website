@@ -55,7 +55,7 @@ const Header = () => {
                           Blog
                         </a>
                       </li>
-                      <li>
+                      {/* <li>
                         <a
                           style={{ cursor: "pointer" }}
                           onClick={() => navigate("/about")}
@@ -70,7 +70,7 @@ const Header = () => {
                         >
                           Contact
                         </a>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                   <div className="col-2 text-end">

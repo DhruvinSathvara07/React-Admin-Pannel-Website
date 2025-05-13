@@ -19,8 +19,8 @@ function App() {
             <Route path="/donate" element={<IndexDonate />} />
             <Route path="/ngo" element={<NGO />} />
             <Route path="/blogs" element={<Blogs />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
+            {/* <Route path="/about" element={<About />} /> */}
+            {/* <Route path="/contact" element={<Contact />} /> */}
           </Routes>
         </Layout>
       </Router>
